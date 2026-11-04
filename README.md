@@ -2,7 +2,7 @@ Pharmacovigilance ICSR Case Processing Project
 
 A comprehensive academic simulation project demonstrating the end-to-end workflow of Individual Case Safety Report (ICSR) processing within pharmacovigilance and regulatory affairs.
 
-Project Overview
+Project Overview:
 This project simulates the processing, evaluation, and quality control of 20 spontaneous adverse event source reports. It bridges unstructured source documentation with structured data tracking, adhering to standard pharmacovigilance workflows from intake to regulatory assessment.
 
 Project Structure
